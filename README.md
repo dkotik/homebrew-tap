@@ -8,6 +8,7 @@ variable named `GITHUB_TOKEN`.
 
 Use Fine-grained Personal Access Token with access to:
 
+- Access to this, `dkotik/homebrew-tap`, repository so that new Homebrew recipies can be created.
 - List of repositories that the token can modify, same as those in casks folder here.
 - **Read** and **Write** access to repository Contents.
 
